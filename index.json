@@ -184,6 +184,7 @@
       "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
+      "Krhom",
       "LeadFingers",
       "MinChan Kim",
       "mouseFPV",
@@ -322,6 +323,7 @@
       "colour change",
       "Configure",
       "control",
+      "crash",
       "Crossfire",
       "CRSF",
       "ctzsnooze",
@@ -480,6 +482,7 @@
       "rc link",
       "rc_link",
       "rc_smoothing",
+      "recovery",
       "Redpine",
       "reset",
       "reset statistics",
@@ -6359,6 +6362,22 @@
         "100euro"
       ],
       "author": "antonig",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/CRASH_RECOVERY.txt",
+      "hash": "2b380511124f6c747b70eb314732a22f3b20aeac00f30917145738d13a24fe40",
+      "title": "ANTI-CRASH / CRASH RECOVERY",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "crash",
+        "recovery"
+      ],
+      "author": "Krhom",
       "priority": 0
     },
     {
