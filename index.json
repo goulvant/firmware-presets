@@ -6552,6 +6552,25 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.5/rates/RanxFPV_Rates.txt",
+      "hash": "4de99bc89d4831c2fe7c77a8dfd314cc5feeec374e8098e66d7ba515a34cf0ed",
+      "title": "RanxFPV's Rates",
+      "firmware_version": [
+        "4.5",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "RanxFPV",
+        "ranxfpv",
+        "ranx",
+        "rates"
+      ],
+      "author": "RanxFPV",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.5/rates/rubberquads_team_rates.txt",
       "hash": "5a312e20e7cf015f4ced03c434b36b82a35c4a4574848ff4f025e5fc02807024",
       "title": "RubberQuads Team Rates",
