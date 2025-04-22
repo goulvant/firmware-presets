@@ -1,0 +1,57 @@
+#$ TITLE: RanxFPV OSD
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:freestyle, bando, sbang, RanxFPV, OSD
+#$ AUTHOR: RanxFPV 
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/CyqPWp-RBkk5h-LCpf77HwqArMf4IuZ4fGdJ-Juh7U3G69BR2Od7QIeYovmKzejvJQvP_Dx4WEs=s160-c-k-c0x00ffffff-no-rj" style="width:100%"/>
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: RanxFPV OSD
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Mon OSD, en cours de développement
+#$ DESCRIPTION: On va voir ce que cela donne
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [YouTube](www.youtube.com/@RanxFPV)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [Instagram]
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: 
+#$ DESCRIPTION:
+#$ WARNING: This rate preset will overwrite all your OSD 
+#$ DISCUSSION: https://github.com/goulvant/betaflight/pulls
+
+
+#$ INCLUDE: presets/4.5/osd/defaults.txt
+
+
+set osd_warn_bitmask = 49981
+set osd_link_quality_alarm = 40
+set osd_rssi_dbm_alarm = -98
+set osd_alt_alarm = 140
+set osd_tim2 = 1
+set osd_vbat_pos = 14882
+set osd_link_quality_pos = 15975
+set osd_rssi_dbm_pos = 15969
+set osd_tim_2_pos = 14359
+set osd_flymode_pos = 15371
+set osd_anti_gravity_pos = 2
+set osd_throttle_pos = 14948
+set osd_crosshairs_pos = 313
+set osd_mah_drawn_pos = 14915
+set osd_craft_name_pos = 14336
+set osd_home_dir_pos = 14368
+set osd_altitude_pos = 2
+set osd_warnings_pos = 14677
+set osd_avg_cell_voltage_pos = 14968
+set osd_disarmed_pos = 14519
+set osd_flip_arrow_pos = 14778
+set osd_core_temp_pos = 32
+set osd_sys_warnings_pos = 14837
+set osd_sys_vtx_temp_pos = 32
+set osd_stat_bitmask = 1090520800
