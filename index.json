@@ -6321,7 +6321,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/RanxFPV_OSD.txt",
-      "hash": "5fbf182e6066e96a1cbe6d4bf7b3bf1db3932e7665b5b5a8d0cfe4edd57a55e6",
+      "hash": "c57f90578a6c63e0437cea21fa5a6a9457d15625e94f92f56321ac0c1e54b44e",
       "title": "RanxFPV OSD",
       "firmware_version": [
         "4.5"
@@ -6552,7 +6552,7 @@
     },
     {
       "fullPath": "presets/4.5/rates/RanxFPV_Rates.txt",
-      "hash": "b17298370d524f38041d8d47f71b903b66d1c8b25e1c1c39023ba4b720d496ab",
+      "hash": "c285f5b205082af593f64ff374781cd1196b711bdf17b7e9f12dca32ac49815c",
       "title": "RanxFPV Rates",
       "firmware_version": [
         "4.5"
