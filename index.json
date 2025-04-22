@@ -6321,6 +6321,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/osd/RanxFPV_OSD.txt",
+      "hash": "d0de04893451bb11dbec952149ca046e65a743b9df1dbbcdec58d271d8cdab12",
+      "title": "RanxFPV OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "freestyle",
+        "bando",
+        "sbang",
+        "RanxFPV",
+        "OSD"
+      ],
+      "author": "RanxFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/sugark_hdzero_osd.txt",
       "hash": "2b81a276f1e9f6008c6e600eb7feef5ea312fbed10fc94442db99b689b674b71",
       "title": "sugarK HDzero OSD",
@@ -6553,19 +6572,19 @@
     },
     {
       "fullPath": "presets/4.5/rates/RanxFPV_Rates.txt",
-      "hash": "4de99bc89d4831c2fe7c77a8dfd314cc5feeec374e8098e66d7ba515a34cf0ed",
-      "title": "RanxFPV's Rates",
+      "hash": "f68309f51449d0a47323fe866c3cc290aac1e43dd3a298d5e35d2b4ae49dcf29",
+      "title": "RanxFPV Rates",
       "firmware_version": [
-        "4.5",
-        "4.4"
+        "4.5"
       ],
       "category": "RATES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "RanxFPV",
-        "ranxfpv",
-        "ranx",
-        "rates"
+        "rates",
+        "freestyle",
+        "bando",
+        "sbang",
+        "RanxFPV"
       ],
       "author": "RanxFPV",
       "priority": 10000
@@ -7376,25 +7395,6 @@
       ],
       "author": "QuadMcFly (Ryan Harrell)",
       "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.5/tune/RanxFPV.txt",
-      "hash": "4b2a0f23adf56d20b649e27155d10e79265bf96b0250ec1b5a2fc0f8770b19a3",
-      "title": "RanxFPV Rates",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates",
-        "freestyle",
-        "bando",
-        "sbang",
-        "RanxFPV"
-      ],
-      "author": "RanxFPV",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.5/tune/rubberquads/squirrel35_tune.txt",
