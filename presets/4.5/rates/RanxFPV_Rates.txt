@@ -8,7 +8,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/tw_QhoW2MrsWGk-hXuo9cut3Whi15l30vlqBxqrzn2YND3CQFWAVd8ckm7P3M3J5od0LzqAd-A=s160-c-k-c0x00ffffff-no-rj" style="max-width: 35%; margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/CyqPWp-RBkk5h-LCpf77HwqArMf4IuZ4fGdJ-Juh7U3G69BR2Od7QIeYovmKzejvJQvP_Dx4WEs=s160-c-k-c0x00ffffff-no-rj" style="width:25%"; margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: <br /><br />
 #$ DESCRIPTION: RanxFPV rates
 #$ DESCRIPTION: -----------
@@ -27,14 +27,12 @@
 #$ WARNING: This rate preset will overwrite all the rate profiles 
 #$ DISCUSSION: https://github.com/goulvant/betaflight/pulls
 
-#$ INCLUDE: presets/4.5/rates/defaults.txt
-
-# -- End Defaults --
 # -- Begin RanxFPV Rates --
 
 rateprofile 0
 
 # rateprofile 0
+set rates_type = ACTUAL
 set rateprofile_name = RanxFPV
 set roll_rc_rate = 1
 set pitch_rc_rate = 1

@@ -475,7 +475,6 @@
       "racing",
       "rad",
       "ranging",
-      "ranx",
       "RanxFPV",
       "rates",
       "RC",
@@ -6322,7 +6321,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/RanxFPV_OSD.txt",
-      "hash": "d0de04893451bb11dbec952149ca046e65a743b9df1dbbcdec58d271d8cdab12",
+      "hash": "5fbf182e6066e96a1cbe6d4bf7b3bf1db3932e7665b5b5a8d0cfe4edd57a55e6",
       "title": "RanxFPV OSD",
       "firmware_version": [
         "4.5"
@@ -6552,27 +6551,8 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.5/rates/defaults.txt",
-      "hash": "193140fe10b4c0dbe10e4bcf22ffb32a99e0f4376eface6f870066eb9f1aa05f",
-      "title": "RanxFPV's Rates",
-      "firmware_version": [
-        "4.5",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "RanxFPV",
-        "ranxfpv",
-        "ranx",
-        "rates"
-      ],
-      "author": "RanxFPV",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.5/rates/RanxFPV_Rates.txt",
-      "hash": "f68309f51449d0a47323fe866c3cc290aac1e43dd3a298d5e35d2b4ae49dcf29",
+      "hash": "b17298370d524f38041d8d47f71b903b66d1c8b25e1c1c39023ba4b720d496ab",
       "title": "RanxFPV Rates",
       "firmware_version": [
         "4.5"

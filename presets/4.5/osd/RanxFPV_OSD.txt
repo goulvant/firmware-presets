@@ -7,7 +7,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/CyqPWp-RBkk5h-LCpf77HwqArMf4IuZ4fGdJ-Juh7U3G69BR2Od7QIeYovmKzejvJQvP_Dx4WEs=s160-c-k-c0x00ffffff-no-rj" style="width:100%"/>
+#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/CyqPWp-RBkk5h-LCpf77HwqArMf4IuZ4fGdJ-Juh7U3G69BR2Od7QIeYovmKzejvJQvP_Dx4WEs=s160-c-k-c0x00ffffff-no-rj" style="width:25%"; margin-left: auto; margin-right: auto; display: block;"/>
 #$ DESCRIPTION: <br /><br />
 #$ DESCRIPTION: RanxFPV OSD
 #$ DESCRIPTION: -----------
