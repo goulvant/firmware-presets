@@ -1,0 +1,34 @@
+#$ TITLE: Reset ALL RC link related settings
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:freestyle, bando, sbang, RanxFPV, MODES
+#$ AUTHOR: RanxFPV
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: <img src="https://yt3.googleusercontent.com/CyqPWp-RBkk5h-LCpf77HwqArMf4IuZ4fGdJ-Juh7U3G69BR2Od7QIeYovmKzejvJQvP_Dx4WEs=s160-c-k-c0x00ffffff-no-rj" width="150px" style="margin-left: auto; margin-right: auto; display: block;"/>
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: RanxFPV OSD
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Mes MODES, en cours de développement
+#$ DESCRIPTION: On va voir ce que cela donne
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [YouTube](www.youtube.com/@RanxFPV)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: [Instagram]
+#$ DESCRIPTION: 
+#$ DESCRIPTION: 
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: 
+#$ DESCRIPTION:
+#$ WARNING: This rate preset will overwrite all your OSD 
+#$ DISCUSSION: https://github.com/goulvant/betaflight/pulls
+
+# aux
+aux 0 0 0 1800 2100 0 0
+aux 1 1 5 900 1200 0 0
+aux 2 2 5 1800 2100 0 0
+aux 3 13 3 1800 2100 0 0
+aux 4 35 2 1800 2100 0 0

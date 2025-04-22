@@ -6320,6 +6320,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/modes/RanxFPV_modes.txt",
+      "hash": "a1219ccd4faff5ecbbc4735cb58c0a935ed6f6451a698a345acc0b280118edab",
+      "title": "Reset ALL RC link related settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "freestyle",
+        "bando",
+        "sbang",
+        "RanxFPV",
+        "MODES"
+      ],
+      "author": "RanxFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/RanxFPV_OSD.txt",
       "hash": "3e61a7258e572f275473a8678363b205900e124fb9a1ed245d9cff737aac3792",
       "title": "RanxFPV OSD",
