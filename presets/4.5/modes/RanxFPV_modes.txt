@@ -1,4 +1,4 @@
-#$ TITLE: Reset ALL RC link related settings
+#$ TITLE: RanxFPV Modes (Boxer ELRS)
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: MODES
 #$ STATUS: EXPERIMENTAL

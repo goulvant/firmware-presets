@@ -6321,8 +6321,8 @@
     },
     {
       "fullPath": "presets/4.5/modes/RanxFPV_modes.txt",
-      "hash": "a1219ccd4faff5ecbbc4735cb58c0a935ed6f6451a698a345acc0b280118edab",
-      "title": "Reset ALL RC link related settings",
+      "hash": "15cbfdddc457b9caf212a8dfb760f44524f48f67bb077676cc8fe54022f4bcac",
+      "title": "RanxFPV Modes (Boxer ELRS)",
       "firmware_version": [
         "4.5"
       ],
